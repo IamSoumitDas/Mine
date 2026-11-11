@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753190275054",
+    "project_id": "mine-92fb1",
+    "storage_bucket": "mine-92fb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753190275054:android:cdcd71a74d9d882996f0ff",
+        "android_client_info": {
+          "package_name": "com.soumit.mine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF6Sl-arpb8aRDAc8so-3z-N5mObiY0Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
