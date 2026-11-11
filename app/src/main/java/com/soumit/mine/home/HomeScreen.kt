@@ -246,7 +246,7 @@ fun HomeScreen(
                 title = {
                     Column {
                         Text(
-                            text = "Mine • Tuition Diary",
+                            text = "Mine",
                             style = MaterialTheme.typography.titleLarge.copy(
                                 fontWeight = FontWeight.Bold
                             )
